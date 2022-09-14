@@ -1,0 +1,22 @@
+{
+  "name": "03_fallout",
+  "version": "1.0.0",
+  "description": "Solution to the Fallout Ethernaut level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@openzeppelin/contracts": "^3.4.2",
+    "@openzeppelin/hardhat-upgrades": "^1.20.0",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
