@@ -219,3 +219,6 @@ dist
 artifacts/
 cache/
 
+# MacOS
+.DS_Store
+
