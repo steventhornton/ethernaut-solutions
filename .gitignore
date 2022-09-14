@@ -214,3 +214,8 @@ dist
 # yarn v2
 
 # End of https://www.toptal.com/developers/gitignore/api/solidity,node
+
+# Hardhat
+artifacts/
+cache/
+
